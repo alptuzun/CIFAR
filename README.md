@@ -1,1 +1,1 @@
-# CIFAR
+# MNIST
